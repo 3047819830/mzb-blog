@@ -1,0 +1,175 @@
+.container-love {
+    padding: 30px 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+    box-shadow: rgb(14 30 37 / 12%) 0px 2px 4px 0px, rgb(14 30 37 / 32%) 0px 2px 16px 0px;
+}
+.love-avaBox {
+    text-align: center;
+}
+.love-headText{
+    margin: 10px;
+}
+.love-avatar {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    background-size:cover;
+    border-radius: 50%;
+    border: 3px solid #ffff;
+}
+.love-time {
+    text-align:center;
+}
+.avatar-man {
+    margin-right: -40px;
+    background-image: url("https://q1.qlogo.cn/g?b=qq&nk=1287147973&s=640");
+}
+.avatar-girl {
+    background-image: url("https://q1.qlogo.cn/g?b=qq&nk=1287147973&s=640");
+}
+.love-timeBox {
+    width: 70%;
+    height: 100%;
+    background-image: url("../img/rilis.png");
+    background-size: cover;
+}
+.love-number {
+    font-size: 30px;;
+}
+.love-nubBox {
+    margin-top:12px;
+}
+.width-auth {
+    width: 100%;
+}
+.info-avaBox {
+    text-align: center;
+}
+.info-vaatar-man {
+    margin:0 auto;
+    width: 80px;
+    height: 80px;
+    background-size:cover;
+    border-radius: 12px;
+    border: 3px solid #ffff;
+    background-image: url("https://q1.qlogo.cn/g?b=qq&nk=1287147973&s=640");
+}
+.info-text {
+    margin:15px 55px;
+}
+.line-love{  
+    margin: 30px 0;
+    height: 1px;  
+    border-top: 1px solid #ddd;  
+    text-align: center;  
+}  
+.line-love span{  
+    position: relative;  
+    top: -8px;  
+    background: #fff;  
+    padding: 0 20px;  
+}
+
+
+
+/* 标签栏 */
+.nav{
+    display: flex;
+}
+.nav .item{
+    width: 70px;
+    height: 40px;
+    margin-left: 15px;
+    border: 1px solid pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    /* 相对定位 */
+    position: relative;
+    /* 溢出隐藏 */
+    overflow: hidden;
+}
+/* 图标背景圆 */
+.nav .item::before{
+    content: "";
+    width: 0;
+    height: 0;
+    background-color: pink;
+    border-radius: 50%;
+    /* 绝对定位 */
+    position: absolute;
+    /* 过渡效果 */
+    transition: 0.3s;
+}
+.nav .item span{
+    position: relative;
+    font-size: 15px;
+}
+/* 标签选中态样式 */
+.nav .active::before{
+    width: 150%;
+    height: 150%;
+}
+/* 内容区 */
+.content{
+    width: 100%;
+    position: relative;
+}
+.content section  {
+    width: 100%;
+    display:none;
+    transition: opacity 0.4s;
+}
+/* 内容区选中态样式 */
+.content .active{
+    display:block;
+}
+.card-list-love {
+    min-width: 95px;
+    margin: 8px auto;
+    text-align: center;
+    padding:5px;
+}
+
+.card-list-img {
+    width: 100%;
+    height: 80px;
+    background-size: cover;
+    margin: 0 auto;
+    border-radius:8px;
+}
+.container-love-card {
+    border-radius: 10px;
+    margin: 10px 0;
+    box-shadow: rgb(14 30 37 / 12%) 0px 2px 4px 0px, rgb(14 30 37 / 32%) 0px 2px 16px 0px;
+}
+
+.card-type-complete {
+    background: url('../img/wanc.png') center right no-repeat;
+}
+
+.card-type-ongoing {
+    background: url('../img/jin.png') center right no-repeat;
+}
+
+.card-type-intend {
+    background: url('../img/das.png') center right no-repeat;
+}
+
+.card-type-complete span, .card-type-ongoing span, .card-type-intend span {
+    display: inline-block;
+    padding:0;
+    margin-top: 10px 0;
+    font-size:16px;
+}
+.card-type-complete, .card-type-ongoing, .card-type-intend {
+    display: inline-block;
+    width: 100%;
+    height: 40px;
+    margin-top: 12px;
+    text-align: center;
+    padding-right: 10px;
+    background-size: 40px;
+}

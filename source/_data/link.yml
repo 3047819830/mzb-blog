@@ -1,0 +1,250 @@
+- class_name: 在线学习网站
+  link_list:
+    - name: w3school
+      link: https://www.w3school.com.cn/
+      avatar: https://www.webjike.com/upload/images/2018/3/f1fec4b71457dfd3.jpg
+      descr: 领先的免费 Web 技术教程，在 w3school，你可以找到你所需要的所有的网站建设教程。
+    - name: 菜鸟教程
+      link: https://www.runoob.com/
+      avatar: https://www.webjike.com/upload/images/2018/3/b7e82395f78d6d4b.png
+      descr: 快速、简单且强大的网誌框架
+    - name: MDN Web 文档
+      link: https://developer.mozilla.org/zh-CN/docs/Learn
+      avatar: https://www.webjike.com/upload/images/2018/3/d423f5847e9667b9.png
+      descr: 一个提供 Web 技术和促进 Web 技术软件的不断发展的学习平台
+    - name: 汇智网
+      link: http://www.hubwiz.com/
+      avatar: https://www.webjike.com/upload/images/2018/3/b02c4c6d67862318.jpg
+      descr: 汇智网是一个学习最前沿编程技术的平台，提供了node.js、js、jq等相关的课程。
+    - name: W3Cways
+      link: https://www.w3cways.com/
+      avatar: https://www.webjike.com/upload/images/2018/3/7547849854582437.jpg
+      descr: Web前端学习之路，网站提供很丰富的相关技术中文文档。
+    - name: React Native中文网
+      link: https://reactnative.cn/
+      avatar: https://www.webjike.com/upload/images/2018/4/47fc7088c3dbd852.jpg
+      descr: React Native中文网是中国最大的React Native开发者交流学习平台, 致力于打造React Native开发。
+    - name: 百度前端技术学院
+      link: https://ife.baidu.com/
+      avatar: https://www.webjike.com/upload/images/2019/8/d2ea6ca1924a2f42.jpg
+      descr: 由百度创办的免费前端技术学习实践、交流、分享平台
+    - name: 七天学会NodeJS
+      link: https://nqdeng.github.io/7-days-nodejs/
+      avatar: https://www.webjike.com/upload/images/2018/3/caa3b227baad960e.jpg
+      descr: 阿里国际站前端技术部写的一个博文，如果有耐心读完，相信还是有不少收获的。
+    - name: CSS参考手册
+      link: https://css.doyoe.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/f5b427abbed05fca.jpg
+      descr: Web前端开发人员提供最新、最全的CSS中文版在线资料，涵盖CSS3参考手册。
+- class_name: 前端社区
+  class_desc: 前端技术交流社区
+  link_list:
+    - name: 掘金
+      link: https://juejin.cn/
+      avatar: https://www.webjike.com/upload/images/2018/4/f65b5b05e672317f.png
+      descr: 掘金是一个帮助开发者成长的社区，是给开发者用的 Hacker News，给设计师用的 Designer News，和给产品经理用的 Medium。
+    - name: SegmentFault
+      link: https://segmentfault.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/a678dd8b0c37b1d5.jpg
+      descr: 中国领先的开发者技术社区，我们希望为编程爱好者提供一个纯粹、高质的技术交流的平台, 与开发者一起学习、交流与成长。
+    - name: Laravel China
+      link: https://learnku.com/laravel
+      avatar: https://www.webjike.com/upload/images/2018/4/8d53bb883900905f.jpg
+      descr: 一个高品质的 Laravel 开发者社区，致力于为 Laravel 和 PHP 开发者提供一个分享创造、结识伙伴、协同互助的论坛。
+    - name: CNode
+      link: https://cnodejs.org/
+      avatar: https://www.webjike.com/upload/images/2018/4/b47e2ed2372691ea.png
+      descr: CNode 社区为国内最专业的 Node.js 开源技术社区，致力于 Node.js 的技术研究。
+    - name: 开源中国
+      link: https://www.oschina.net/
+      avatar: https://www.webjike.com//upload/images/2018/4/bd9898603e900b7b.jpg
+      descr: 开源中国是目前中国最大的开源技术社区，我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台。
+    - name: 大前端
+      link: https://www.400zi.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/d41490fb046ac65d.png
+      descr: 大前端是一个关注前端开发、用户体验设计、HTML5、CSS3、Javascript的前端开发独立博客。
+
+- class_name: UI框架
+  class_desc: 前端常见的UI框架
+  link_list:
+    - name: Bootstrap
+      link: https://v3.bootcss.com/
+      avatar: https://www.webjike.com/upload/images/2018/3/147cc14799fd6749.jpg
+      descr: 最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布局、移动设备优先的 WEB 项目。
+    - name: Element
+      link: https://element.eleme.cn/#/zh-CN
+      avatar: https://www.webjike.com/upload/images/2018/10/a9bb75c6ec82ae55.jpg
+      descr: 饿了么前端团队开发的基于 Vue 2.0 的桌面端组件库。
+    - name: Ant Design
+      link: https://ant.design/index-cn
+      avatar: https://www.webjike.com/upload/images/2018/4/502c611eee6ce9d6.png
+      descr: 一个服务于企业级产品的设计体系，基于『确定』和『自然』的设计价值观，通过模块化的解决方案，让设计者专注于更好的用户体验。
+    - name: jQuery UI
+      link: https://jqueryui.com/
+      avatar: https://www.webjike.com/upload/images/2018/3/ab8da1da027f1cfb.gif
+      descr: jQuery UI 是建立在 jQuery JavaScript 库上的一组用户界面交互、特效、小部件及主题。
+    - name: Jquery EasyUI中文网
+      link: https://www.jeasyui.net/
+      avatar: https://www.webjike.com/upload/images/2018/3/3c6dbce53f4733cb.png
+      descr: easyui是一种基于jQuery的用户界面插件集合。
+    - name: Layui
+      link: https://www.layuiweb.com/
+      avatar: https://www.webjike.com/upload/images/2018/3/8c90a8c835f2a1a5.jpg
+      descr: Layui 是一款采用自身模块规范编写的情怀型前端UI框架，遵循原生HTML/CSS/JS的书写与组织形式，门槛极低，拿来即用。
+    - name: ZUI
+      link: https://www.openzui.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/3cb50940d34e1148.png
+      descr: 一个基于 Bootstrap 深度定制开源前端实践方案，帮助你快速构建现代跨屏应用。
+    - name: Atui
+      link: https://aliqin.github.io/atui/
+      avatar: https://www.webjike.com/upload/images/2018/4/e2eeeee050bce6.png
+      descr: 阿里通讯前端部推出的一个基于 Vue.js 2.0 的 UI 组件库。
+    - name: Rubik UI
+      link: https://ccforward.github.io/rubik/#/
+      avatar: https://www.webjike.com/upload/images/2018/4/d3148eda6079f984.png
+      descr: Rubik UI 是一个基于 Vue.js 2.0+ 的开源 UI 组件库，在交互和视觉设计上遵循 Material Design 规范，适用于 PC 端和 mobile 端。
+- class_name: JS框架
+  class_desc: 前端流行的js框架
+  link_list:
+    - name: Vue.js 中文网
+      link: https://cn.vuejs.org/
+      avatar: https://www.webjike.com/upload/images/2018/3/86c6ca7942dabaf5.png
+      descr: Vue.js 是一个用于创建 Web 交互界面的库，它让你通过简单而灵活的 API 创建由数据驱动的 UI 组件。
+    - name: React.js中文网
+      link: https://doc.react-china.org/
+      avatar: https://www.webjike.com//upload/images/2018/3/cdc2d49e875b0915.jpg
+      descr: 用于构建用户界面的 JavaScript 库，React 起源于 Facebook 的内部项目，用来架设 Instagram 的网站。
+    - name: Angular.js中文网
+      link: https://www.angularjs.net.cn/
+      avatar: https://www.webjike.com/upload/images/2018/3/55c0271adefb7aa5.jpg
+      descr: AngularJS是为了克服HTML在构建应用上的不足而设计的。
+    - name: jQuery
+      link: https://www.jquery123.com/
+      avatar: https://www.webjike.com/upload/images/2018/3/12c3ebb7fb02ef75.png
+      descr: jQuery 是一个高效、精简并且功能丰富的 JavaScript 工具库。
+    - name: JKISSY
+      link: https://docs.kissyui.com/
+      avatar: https://www.webjike.com/upload/images/2018/3/8ec072fa61037f1d.png
+      descr: KISSY 是一款跨终端、模块化、高性能、使用简单的 JavaScript 框架。
+    - name: ThinkJS
+      link: https://thinkjs.org/
+      avatar: https://www.webjike.com/upload/images/2018/4/6e9dc02b01e68a9.png
+      descr: ThinkJS 是一款使用 ES6/7 特性全新开发的 Node.js MVC 框架。
+    - name: D3
+      link: https://d3js.org/
+      avatar: https://www.webjike.com/upload/images/2018/4/37109e4bb67e2d4a.png
+      descr: D3.js是一个基于数据处理文档，针对 HTML 和 SVG 的 JavaScript 可视化库。
+    - name: Redom
+      link: https://redom.js.org/
+      avatar: https://www.webjike.com/upload/images/2018/4/edadbb921d866f26.png
+      descr: 一个轻便的创建用户接口的 JavaScript 库，测试覆盖率100%。
+- class_name: 在线工具
+  class_desc: 前端非常好用的辅助工具
+  link_list:
+    - name: 勤道快切助手
+      link: http://kuaiqie.qdsay.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/2131507ae6b2127a.png
+      descr: 在线网页切图工具，采用图片识别技术，在线切图转页面。
+    - name: ProcessOn
+      link: https://www.processon.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/6e97d3d79f7a604a.png
+      descr: ProcessOn是一个方便易用、免费高效的在线作图工具，运用它可以免费制作多种图。
+    - name: 开发工具箱
+      link: https://www.box3.cn/
+      avatar: https://www.webjike.com/upload/images/2018/4/bc650e2cab59ea12.png
+      descr: 这个网站集合了各种工具，相信总有一款你用得上。
+    - name: 麦客CRM
+      link: https://www.mikecrm.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/f68e886d2b0b9962.jpg
+      descr: 麦客CRM是一款在线表单制作工具，同时也是强大的客户信息处理和关系管理系统。
+    - name: 百度脑图
+      link: https://naotu.baidu.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/f68e886d2b0b9962.jpg
+      descr: 便捷的脑图编辑工具 - 控制创意，如此简单，让您在线上直接创建、保存并分享你的思路。
+    - name: 花瓣采集工具
+      link: https://huaban.com/about/goodies/
+      avatar: https://www.webjike.com/upload/images/2018/4/88dc363a15d31642.jpg
+      descr: 你可以方便地保存任意网站上的图片、视频和截图。
+    - name: 美图秀秀网页版
+      link: https://pc.meitu.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/fbd44c2a62246d2a.jpg
+      descr: 美图秀秀 旗下图片处理软件中的在线版，不用下载直接使用。
+    - name: CSS在线压缩工具
+      link: https://tool.lu/css/
+      avatar: https://www.webjike.com/upload/images/2018/4/77abd2f285a5e79e.png
+      descr: Css在线解压缩工具/整理/格式化。
+    - name: 草料二维码
+      link: https://cli.im/
+      avatar: https://www.webjike.com/upload/images/2018/4/aebdbbea9ede96e0.jpg
+      descr: 草料二维码是国内专业的二维码服务提供商，提供二维码生成、美化、印制、管理、统计等服务。
+    - name: MACA 免费H5页面
+      link: https://www.maka.im/muban
+      avatar: https://www.webjike.com/upload/images/2018/4/a3385c1c3a8252f2.png
+      descr: 强大的免费H5页面、微场景制作平台。
+    - name: 墨刀
+      link: https://modao.cc/
+      avatar: https://www.webjike.com/upload/images/2018/4/e088699736bde1b6.png
+      descr: 强大易用的免费移动应用原型与线框图工具。
+    - name: 中国色（颜色库）
+      link: http://zhongguose.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/845eb22362ae058e.png
+      descr: 供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示。
+    - name: ColorDrop
+      link: https://colordrop.io/
+      avatar: https://www.webjike.com/upload/images/2018/4/ac256291707e2e70.png
+      descr: colordrop是一个很棒的配色网站，收录了不少漂亮的配色方案，而且选定方案之后便会弹出对应的Hex与RGB色值。
+    - name: 创客贴
+      link: https://www.chuangkit.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/6d3d144ff65739c2.png
+      descr: 创客贴是国内首创极简在线平面设计工具，专注在线免费设计图片，素材下载及在线印刷。
+    - name: Smallpdf
+      link: hhttps://smallpdf.com/cn
+      avatar: https://www.webjike.com/upload/images/2018/4/d0de0f540fe0a9c8.png
+      descr: 在线PDF压缩，转换格式的好工具（压缩率超高）。
+    - name: 泼辣修图
+      link: https://www.polaxiong.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/72c267138f889315.png
+      descr: 一款免费的在线图像处理软件，只要页面加载完成，导出导入图片不再受网络影响
+    - name: docsmall
+      link: https://docsmall.com/
+      avatar: https://www.webjike.com/upload/images/2019/2/c22f461ac3da736c.jpg
+      descr: 简单好用的在线图片压缩工具
+    - name: MEZW
+      link: https://psd2css.mezw.com/
+      avatar: https://www.webjike.com/upload/images/2019/3/568a3596ef27488.jpg
+      descr: 将PS中的投影效果转换为CSS3中的box-shadow & text-shadow代码
+- class_name: 代码托管
+  class_desc: 代码托管平台
+  link_list:
+    - name: GitHub
+      link: https://github.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/a5e37ff7de953f1a.jpg
+      descr: github是一款分布式的版本控制系统，是一个面向开源及私有软件项目的托管平台。
+    - name: Coding
+      link: https://coding.net/
+      avatar: https://www.webjike.com/upload/images/2018/4/41b57615cd7248d4.jpg
+      descr: Coding 是一个面向开发者的云端开发平台，目前提供代码托管，运行空间，质量控制，项目管理等功能。
+    - name: Code
+      link: https://www.csdn.net/
+      avatar: https://www.webjike.com/upload/images/2018/4/95f068259e3d6eaa.png
+      descr: jCSDN是一个面向国内开发者提供代码托管、代码片、社交编程、组织管理、社区讨论、知识库等开发服务平台。
+    - name: 码云
+      link: https://gitee.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/dc2f317b88f646c.jpg
+      descr: 码云是开源中国社区团队推出的基于Git的快速的、免费的、稳定的在线代码托管平台。
+    - name: Bitbucket
+      link: https://bitbucket.org/
+      avatar: https://www.webjike.com/upload/images/2018/4/d181508cb87a2a04.jpg
+      descr: BitBucket 是一家源代码托管网站，采用Mercurial和Git作为分布式版本控制系统。
+    - name: Gitlab
+      link: https://about.gitlab.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/3c57c7882303493a.jpg
+      descr: GitLab 是一个基于 git 的仓库管理程序,也是一个方便软件开发的强大完整应用。
+    - name: Gitshell
+      link: https://gitshell.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/f6ad368abae1aa8.png
+      descr: Gitshell 是一个使用git版本控制系统的项目，类似github，提供clone，push，pull，branch管理等。
+    - name: SVN China
+      link: http://www.svnchina.com/
+      avatar: https://www.webjike.com/upload/images/2018/4/c0f5bb978ef67736.jpg
+      descr: 为中国广大程序员而创办的SVN源代码托管站,支持Subversion权限管理、版本管理、修订纪录订阅、SVN库备份导入导出等功能。

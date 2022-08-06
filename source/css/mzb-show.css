@@ -1,0 +1,368 @@
+
+    /*所有页面实现毛玻璃特效*/
+    #aside-content{
+        background: rgba(255,255,255,0);
+    }
+    
+    #aside-content > .card-widget:first-child {
+        background: rgba(255,255,255,0.5);
+        backdrop-filter: blur(10px);
+    }
+    
+    #aside-content .card-widget {
+        background: rgba(255,255,255,0.5);
+        backdrop-filter: blur(10px);
+    }
+    
+    .layout > div:first-child:not(.recent-posts) {
+        background: rgba(255,255,255,0.5);
+        backdrop-filter: blur(10px);
+    }
+    
+    #recent-posts > .recent-post-item {
+        background: rgba(255,255,255,0.5);
+        backdrop-filter: blur(10px);
+    }
+    /*标题栏*/
+    #page-header.nav-visible #nav {
+        background: rgba(255,255,255,0.5);
+        backdrop-filter: blur(50px);
+    }
+    /*搜索框美化*/
+    .search-dialog {
+        background: rgba(255,255,255,0.5);
+        backdrop-filter: blur(10px);
+        border-radius: 0px;
+    }
+    
+    #search-mask {
+        background: rgba(255,255,255,0);
+    }
+    /*手机端毛玻璃优化*/
+    #sidebar #sidebar-menus.open {
+        background: rgba(255,255,255,0.5);
+        backdrop-filter: blur(10px);
+    }
+    
+    #sidebar #menu-mask {
+        background: rgba(255,255,255,0);
+    }
+    /* 页脚footer */
+    /* 渐变色滚动动画 */
+    @-webkit-keyframes Gradient {
+        0% {
+            background-position: 0 50%;
+        }
+    
+        50% {
+            background-position: 100% 50%;
+        }
+    
+        100% {
+            background-position: 0 50%;
+        }
+    }
+    
+    @-moz-keyframes Gradient {
+        0% {
+            background-position: 0 50%;
+        }
+    
+        50% {
+            background-position: 100% 50%;
+        }
+    
+        100% {
+            background-position: 0 50%;
+        }
+    }
+    
+    @keyframes Gradient {
+        0% {
+            background-position: 0 50%;
+        }
+    
+        50% {
+            background-position: 100% 50%;
+        }
+    
+        100% {
+            background-position: 0 50%;
+        }
+    }
+    #footer {
+        background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
+        background-size: 400% 400%;
+        -webkit-animation: Gradient 10s ease infinite;
+        -moz-animation: Gradient 10s ease infinite;
+        animation: Gradient 10s ease infinite;
+        -o-user-select: none;
+        -ms-user-select: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+    }
+    
+    #footer:before {
+        background-color: rgba(0, 0, 0, 0);
+    }
+    
+    #footer-wrap {
+        background-color: rgba(0, 0, 0, 0);
+    }
+    
+    /* 滚动条 */
+    ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+    }
+    
+    ::-webkit-scrollbar-track {
+        background-color: rgba(73, 177, 245, 0.2);
+        border-radius: 2em;
+    }
+    
+    ::-webkit-scrollbar-thumb {
+        background-color: #49b1f5;
+        background-image: -webkit-linear-gradient(
+                45deg,
+                rgba(255, 255, 255, 0.4) 25%,
+                transparent 25%,
+                transparent 50%,
+                rgba(255, 255, 255, 0.4) 50%,
+                rgba(255, 255, 255, 0.4) 75%,
+                transparent 75%,
+                transparent
+        );
+        border-radius: 2em;
+    }
+    
+    ::-webkit-scrollbar-corner {
+        background-color: transparent;
+    }
+    
+    ::-moz-selection {
+        color: #fff;
+        background-color: #49b1f5;
+    }
+    @keyframes gradientBG {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+    #web_bg {
+        background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+        background-size: 400% 400%;
+        animation: gradientBG 15s ease infinite;
+    }
+    
+    
+    
+    #web_bg {
+        background: -webkit-linear-gradient(
+                0deg,
+                rgba(247, 149, 51, 0.1) 0,
+                rgba(243, 112, 85, 0.1) 15%,
+                rgba(239, 78, 123, 0.1) 30%,
+                rgba(161, 102, 171, 0.1) 44%,
+                rgba(80, 115, 184, 0.1) 58%,
+                rgba(16, 152, 173, 0.1) 72%,
+                rgba(7, 179, 155, 0.1) 86%,
+                rgba(109, 186, 130, 0.1) 100%
+        );
+        background: -moz-linear-gradient(
+                0deg,
+                rgba(247, 149, 51, 0.1) 0,
+                rgba(243, 112, 85, 0.1) 15%,
+                rgba(239, 78, 123, 0.1) 30%,
+                rgba(161, 102, 171, 0.1) 44%,
+                rgba(80, 115, 184, 0.1) 58%,
+                rgba(16, 152, 173, 0.1) 72%,
+                rgba(7, 179, 155, 0.1) 86%,
+                rgba(109, 186, 130, 0.1) 100%
+        );
+        background: -o-linear-gradient(
+                0deg,
+                rgba(247, 149, 51, 0.1) 0,
+                rgba(243, 112, 85, 0.1) 15%,
+                rgba(239, 78, 123, 0.1) 30%,
+                rgba(161, 102, 171, 0.1) 44%,
+                rgba(80, 115, 184, 0.1) 58%,
+                rgba(16, 152, 173, 0.1) 72%,
+                rgba(7, 179, 155, 0.1) 86%,
+                rgba(109, 186, 130, 0.1) 100%
+        );
+        background: -ms-linear-gradient(
+                0deg,
+                rgba(247, 149, 51, 0.1) 0,
+                rgba(243, 112, 85, 0.1) 15%,
+                rgba(239, 78, 123, 0.1) 30%,
+                rgba(161, 102, 171, 0.1) 44%,
+                rgba(80, 115, 184, 0.1) 58%,
+                rgba(16, 152, 173, 0.1) 72%,
+                rgba(7, 179, 155, 0.1) 86%,
+                rgba(109, 186, 130, 0.1) 100%
+        );
+        background: linear-gradient(
+                90deg,
+                rgba(247, 149, 51, 0.1) 0,
+                rgba(243, 112, 85, 0.1) 15%,
+                rgba(239, 78, 123, 0.1) 30%,
+                rgba(161, 102, 171, 0.1) 44%,
+                rgba(80, 115, 184, 0.1) 58%,
+                rgba(16, 152, 173, 0.1) 72%,
+                rgba(7, 179, 155, 0.1) 86%,
+                rgba(109, 186, 130, 0.1) 100%
+        );
+    }
+    #veditor {
+        background-image: url(https://image.bestzuo.cn/images/20200708160947.gif!getwebp);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: right;
+        background-color: rgba(255, 255, 255, 0);
+        resize: vertical
+    }
+    #veditor:focus{
+        background-position-y: 200px;
+        transition: all 0.2s ease-in-out 0s;
+    }
+    #vcomments .vcards .vcard {
+        padding: 15px 20px 0 20px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+        box-shadow: 0 0 4px 1px rgba(0, 0, 0, .12);
+        transition: all .3s
+    }
+    
+    #vcomments .vcards .vcard:hover {
+        box-shadow: 0 0 8px 3px rgba(0, 0, 0, .12)
+    }
+    
+    #vcomments .vcards .vcard .vh .vcard {
+        border: none;
+        box-shadow: none;
+    }
+    img.vimg {
+        transition: all 1s   /* 旋转时间为 1s */
+    }
+    
+    img.vimg:hover {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+    }
+    
+    /* mlink */
+    
+    .mzb_our-blog{
+        background-color: #f8f9fa;
+        padding: 100px 0;
+    }
+    
+    
+    
+    .mzb_row{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    
+    .mzb_col{
+        width: 25%;
+        overflow: hidden;
+        padding: 15px;
+    
+    }
+    
+    .mzb_col .mzb_card{
+        width: 100%;
+        box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+        transition: transform 0.3s ease;
+        border-radius:10px;
+    }
+    
+    .mzb_mlink_imgbox{
+        width: 100%;
+        height:100px;
+        overflow: hidden;
+        align-items: center;
+        border-radius:10px;
+    }
+    
+    .mzb_mlink_img{
+        width: 100%; 
+    }
+    .mzb_col .mzb_card-body{
+        padding: 0 15px 15px 15px;
+        background-color: #fff;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    
+    .mzb_card-body h5{
+        font-size: 24px;
+        margin: 7px 0;
+    }
+    
+    .mzb_card:hover{
+        transform: translateY(-10px);
+        transition: transform 0.3s ease;
+    }
+    
+    .mzb_card p{
+        color: #6c757d;
+    }
+    
+    .mzb_card-body span{
+        color: #e74c3c;
+    }
+    
+    .mzb_card-body h5 a{
+        color: #222;
+    }
+    
+    .mzb_card-title div{
+        font-size:0.8rem;
+        font-weight:bold;
+        text-overflow: -o-ellipsis-lastline;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        line-clamp:2;
+        -webkit-box-orient: vertical;
+    }
+    
+    .mzb_card-text{
+        font-size:0.6rem;
+        text-overflow: -o-ellipsis-lastline;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            line-clamp: 3;
+            -webkit-box-orient: vertical;
+    
+    }
+    
+    @media(min-width: 577px) and (max-width: 768px){
+        .mzb_col{
+            width: 50%;
+        }
+    }
+    
+    @media(max-width: 576px){
+        .mzb_col{
+            width: 100%;
+        }
+    }
