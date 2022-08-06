@@ -3,17 +3,21 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "hexo generate && gulp",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "dev": "hexo clean && hexo generate && hexo server",
-    "bins": "hexo clean && hexo generate && hexo deploy"
+    "dev": "hexo clean && hexo generate && gulp && hexo server",
+    "bins": "hexo clean && hexo generate && gulp && hexo deploy"
   },
   "hexo": {
     "version": "6.2.0"
   },
   "dependencies": {
+    "gulp-imagemin": "^8.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^3.0.2",
     "hexo": "^6.2.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-butterfly-extjs": "^1.2.6",
