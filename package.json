@@ -14,6 +14,7 @@
     "version": "6.2.0"
   },
   "dependencies": {
+    "gulp": "^4.0.2",
     "gulp-imagemin": "^8.0.0",
     "gulp-minify-css": "^1.2.4",
     "gulp-minify-html": "^1.0.6",
@@ -22,7 +23,9 @@
     "hexo-abbrlink": "^2.2.1",
     "hexo-butterfly-extjs": "^1.2.6",
     "hexo-deployer-git": "^3.0.0",
+    "hexo-filter-nofollow": "^2.0.2",
     "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-baidu-sitemap": "^0.1.9",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-tag": "^1.0.0",
