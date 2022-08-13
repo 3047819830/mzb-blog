@@ -20,6 +20,7 @@
 }
 .love-time {
     text-align:center;
+    padding:0!important;
 }
 .avatar-man {
     margin-right: -40px;
@@ -137,7 +138,7 @@
 }
 .card-list-love {
     min-width: 95px;
-    margin: 8px auto;
+    margin: 5px !important;
     text-align: center;
     padding:5px;
 }
