@@ -11,7 +11,7 @@ menu:
     资料: /materials/ || fas fa-file
   前端导航: /link/ || fas fa-link
   其他||fas fa-list:
-    留言板: /comments/ || fas fa-comments
+    说说: /artitalk/ || fas fa-comments
     归档: /archives/ || fas fa-archive
     关于: /about/ || fa fa-fire
     love: /love/ || fas fa-heart

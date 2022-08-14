@@ -1,12 +1,13 @@
 ---
 title: css布局-flex布局
-date: 2022-08-14 12:57:54
 category:
   - css布局
 tags:
   - css
   - 前端
 cover: 'https://mzbimgs.mzb0.com/img/bg2015071002.png'
+abbrlink: 272486275
+date: 2022-08-14 12:57:54
 ---
 
 网页布局（layout）是 CSS 的一个重点应用。
