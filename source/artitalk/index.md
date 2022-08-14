@@ -13,6 +13,7 @@ new Artitalk({
     appKey: 'puoOmztzf2vkIioLjhrQhzer',
     serverURL: 'https://dp2fdlp2.lc-cn-n1-shared.com',
     shuoPla: '尽情抒发心情！',
+    atComment: 0
 })
 </script>
 <!-- 自定义样式 -->
