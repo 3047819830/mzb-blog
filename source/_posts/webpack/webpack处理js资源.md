@@ -35,7 +35,7 @@ cover: 'https://mzbimgs.mzb0.com/img/webpack.png'
 
 配置文件由很多种写法：
 
-~~~js
+~~~text
 .eslintrc.*
 ~~~
 
@@ -76,7 +76,7 @@ module.exports = {
 ```javascript
 parserOptions: {
   ecmaVersion: 6, // ES 语法版本
-  sourceType: "module", // ES 模块化
+  sourceType:"module", // ES 模块化
   ecmaFeatures: { // ES 其他特性
     jsx: true // 如果是 React 项目，就需要开启 jsx 语法
   }
@@ -312,7 +312,7 @@ JavaScript 编译器。
 
 配置文件由很多种写法：
 
-~~~js
+~~~text
 babel.config.*
 ~~~
 
@@ -321,7 +321,7 @@ babel.config.*
 - `babel.config.js`
 - `babel.config.json`
 
-~~~js
+~~~text
 .babelrc.*
 ~~~
 

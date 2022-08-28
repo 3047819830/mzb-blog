@@ -35,7 +35,7 @@ export function add (unm1,num2) {
 
 在需要使用该函数的地方引入该函数：
 
-~~~vue
+~~~javascript
 <template>
 	<span>{{subNum}}</span>
 </template>

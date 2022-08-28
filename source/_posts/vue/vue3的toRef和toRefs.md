@@ -20,7 +20,7 @@ cover: 'https://mzbimgs.mzb0.com/img/zzddcvue3.png'
 
 简单来说就是将响应式对象的某一个值单独提供给外部使用，并且也是响应式的。
 
-~~~vue
+~~~javascript
 <template>
 	<span>{{textCountRef}}</span>
 	<span>{{textCountRef}}</span>
@@ -42,7 +42,7 @@ cover: 'https://mzbimgs.mzb0.com/img/zzddcvue3.png'
 
 可以看到toRefs和toRef很像，从名字上他们长的差不多，从作用看他们确实也是差不多。只不过一个是对对象属性单个处理，一个是进行批量处理。
 
-~~~vue
+~~~javascript
 <script setup>
   import {reactive,toRefs} from 'vue'
   let obj = reactive({
