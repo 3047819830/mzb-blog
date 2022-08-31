@@ -1,6 +1,5 @@
 ---
 title: webpack修改输出资源的名称和路径
-date: 2022-08-20 22:20:12
 tags:
   - webpack
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/webpack.png'
+abbrlink: 463522621
+date: 2022-08-20 22:20:12
 ---
 
 # 修改输出资源的名称和路径

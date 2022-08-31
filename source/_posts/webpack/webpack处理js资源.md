@@ -1,6 +1,5 @@
 ---
 title: webpack处理js资源
-date: 2022-08-28 20:46:19
 tags:
   - webpack
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/webpack.png'
+abbrlink: 3566304951
+date: 2022-08-28 20:46:19
 ---
 
 # 处理 js 资源

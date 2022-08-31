@@ -1,6 +1,5 @@
 ---
 title: vue3的setup的两个注意点
-date: 2022-08-16 20:38:20
 tags:
   - vue
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/zzddcvue3.png'
+abbrlink: 3459212532
+date: 2022-08-16 20:38:20
 ---
 
 ## setuo的两个注意点

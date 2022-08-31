@@ -1,6 +1,5 @@
 ---
 title: webpack自动清空上次打包资源
-date: 2022-08-20 22:23:11
 tags:
   - webpack
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/webpack.png'
+abbrlink: 205671941
+date: 2022-08-20 22:23:11
 ---
 
 # 自动清空上次打包资源

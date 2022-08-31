@@ -1,6 +1,5 @@
 ---
 title: vue3的shallowRef和shallowReactive
-date: 2022-08-25 21:11:20
 tags:
   - vue
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/zzddcvue3.png'
+abbrlink: 4173313479
+date: 2022-08-25 21:11:20
 ---
 
 # vue3的shallowRef和shallowReactive

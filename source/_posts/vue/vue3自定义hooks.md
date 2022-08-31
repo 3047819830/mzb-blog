@@ -1,6 +1,5 @@
 ---
 title: vue3自定义hooks
-date: 2022-08-25 21:09:44
 tags:
   - vue
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/zzddcvue3.png'
+abbrlink: 787547004
+date: 2022-08-25 21:09:44
 ---
 
 # vue3的自定义hooks

@@ -1,6 +1,5 @@
 ---
 title: vue3中的计算属性和监视属性
-date: 2022-08-16 21:12:21
 tags:
   - vue
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/zzddcvue3.png'
+abbrlink: 3394231567
+date: 2022-08-16 21:12:21
 ---
 
 ## computed函数

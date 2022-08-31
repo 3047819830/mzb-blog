@@ -1,6 +1,5 @@
 ---
 title: webpack处理字体图标资源
-date: 2022-08-21 19:36:39
 tags:
   - webpack
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/webpack.png'
+abbrlink: 1981355373
+date: 2022-08-21 19:36:39
 ---
 
 # 处理字体图标资源

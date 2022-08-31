@@ -1,6 +1,5 @@
 ---
 title: webpack处理样式文件
-date: 2022-08-16 20:28:02
 tags:
   - webpack
   - 前端
@@ -8,6 +7,8 @@ category:
   - 学习笔记
   - 前端分享
 cover: 'https://mzbimgs.mzb0.com/img/webpack.png'
+abbrlink: 2550897277
+date: 2022-08-16 20:28:02
 ---
 
 # 处理样式资源
