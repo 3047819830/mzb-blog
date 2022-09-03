@@ -105,7 +105,9 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:3047819830/3047819830.github.io.git,main
+  repo:
+    github: git@github.com:3047819830/3047819830.github.io.git,main
+    gitee: https://gitee.com/hierarch1/hierarch1.git,master
 
 nofollow:
   enable: true
