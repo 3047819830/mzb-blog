@@ -7,7 +7,7 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   前端||fas fa-list:
-    笔记: /notes/ || fas fa-rocket
+    笔记: /notice/ || fas fa-rocket
     资料: /materials/ || fas fa-file
   前端导航: /link/ || fas fa-link
   其他||fas fa-list:
