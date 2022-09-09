@@ -226,7 +226,7 @@ related_post:
   date_type: created # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
-photofigcaption: false
+photofigcaption: true
 
 # post_pagination (分頁)
 # value: 1 || 2 || false
@@ -506,7 +506,7 @@ site_verification:
 # The position of site info, eg: 300px/300em/300rem/10% (主頁標題距離頂部距離)
 index_site_info_top:
 # The height of top_img, eg: 300px/300em/300rem (主頁top_img高度)
-index_top_img_height:
+index_top_img_height: 400px
 
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
@@ -628,7 +628,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect (打字效果)
   effect: true
   # loop (循環打字)
@@ -706,12 +706,12 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: true
+  publish_date: 1/1/2022 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
-  enable: false
+  enable: true
   sort_order: # Don't modify the setting unless you know how it works
   limit: 6
   storage: 10 # unit: mins, save data to localStorage
@@ -881,7 +881,7 @@ CDN:
   # when set it to local, you need to install hexo-butterfly-extjs
   third_party_provider: local
 
-  # Add version number to CDN, true or false  
+  # Add version number to CDN, true or false
   version: false
 
   # Custom format

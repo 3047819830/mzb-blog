@@ -11,7 +11,7 @@
     "bins": "hexo clean && hexo generate && gulp && hexo deploy"
   },
   "hexo": {
-    "version": "5.4.2"
+    "version": "6.3.0"
   },
   "dependencies": {
     "gulp": "^4.0.2",
